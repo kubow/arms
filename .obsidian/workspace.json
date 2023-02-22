@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cubietruck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91b7fb206ad4a862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tessel.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,33 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "27b274204ccf5851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RaspberryPi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68d20729a2da89f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Tessel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Tessel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Tessel.md"
               }
             }
           }
@@ -183,13 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68d20729a2da89f8",
+  "active": "91b7fb206ad4a862",
   "lastOpenFiles": [
-    "Arduino.md",
-    "RaspberryPi.md",
-    "Cubieboard.md",
-    "README.md",
     "Cubietruck.md",
+    "README.md",
+    "Cubieboard.md",
+    "RaspberryPi.md",
+    "docs/A20_Cubietruck_HW_V10_130606.pdf",
+    "Arduino.md",
     "images/cubietruck.png",
     "OS/raspbian.md",
     "OS/armbian.md"
