@@ -25,26 +25,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tessel.md",
+                "file": "OS/os_preparation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61e5b333e4c86264",
+            "id": "32f201c5f084072b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cubieboard.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3df68a9c24e778bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/android.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b77873e1c20445e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cubietruck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d49fa33e2982442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS/armbian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tessel.md",
+                "file": "OS/armbian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tessel.md",
+                "file": "OS/armbian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tessel.md"
+                "file": "OS/armbian.md"
               }
             }
           }
@@ -171,16 +207,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91b7fb206ad4a862",
+  "active": "6d49fa33e2982442",
   "lastOpenFiles": [
-    "Cubietruck.md",
     "README.md",
-    "Cubieboard.md",
+    "OS/cubian.md",
+    "OS/armbian.md",
     "RaspberryPi.md",
-    "docs/A20_Cubietruck_HW_V10_130606.pdf",
+    "Tessel.md",
+    "Cubieboard.md",
+    "Cubietruck.md",
+    "OS/android.md",
     "Arduino.md",
-    "images/cubietruck.png",
+    "OS/android.media_centers.md",
+    "OS/os_preparation.md",
+    "Pine64.md",
+    "images/rpi4b.png",
+    "images/cubieboard1.png",
+    "images/pine64.png",
+    "CHIP.md",
+    "docs/A20_Cubietruck_HW_V10_130606.pdf",
     "OS/raspbian.md",
-    "OS/armbian.md"
+    "images/cubietruck.png"
   ]
 }

@@ -20,9 +20,9 @@ tessel wifi -l
 Run blinky project
 
 ```shell
-navigate to directory 
-create file blinky.js --> 
-run in command line 
+# navigate to directory 
+touch blinky.js # --> 
+# run in command line 
 npm init -y 
 tessel run blinky.js
 ```
