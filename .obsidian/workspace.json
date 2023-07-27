@@ -8,79 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5513d84abcea0b6",
+            "id": "b1a994af629aa56e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cubietruck.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91b7fb206ad4a862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/os_preparation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32f201c5f084072b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3df68a9c24e778bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/android.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b77873e1c20445e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cubietruck.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d49fa33e2982442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OS/armbian.md",
+                "file": "Home Automation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OS/armbian.md",
+                "file": "Home Automation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OS/armbian.md",
+                "file": "Home Automation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OS/armbian.md"
+                "file": "Home Automation.md"
               }
             }
           }
@@ -207,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d49fa33e2982442",
+  "active": "b1a994af629aa56e",
   "lastOpenFiles": [
+    "OS/armbian.md",
+    "Home Automation.md",
     "README.md",
     "OS/cubian.md",
-    "OS/armbian.md",
     "RaspberryPi.md",
     "Tessel.md",
     "Cubieboard.md",
