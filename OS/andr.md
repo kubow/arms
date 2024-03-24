@@ -1,6 +1,8 @@
 
 # Custom ROM
+
 - [Lineage OS](andr.lineage.md)
+- Sailfish OS
 - [13 Best Android Custom ROMs For 2022 That You Must Try (fossbytes.com)](https://fossbytes.com/android-custom-roms)
 
 
