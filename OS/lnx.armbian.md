@@ -1,4 +1,5 @@
 
+Debian based distro available for many single board computers ([[Cubieboard]], [[Cubietruck]], [[Pine64]], [[RaspberryPi]])
 
 
 [Getting Started - Armbian Documentation](https://docs.armbian.com/User-Guide_Getting-Started/)
