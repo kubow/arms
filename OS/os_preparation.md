@@ -1,7 +1,10 @@
 [How to burn .iso to USB drive - Linux.com](https://www.linux.com/training-tutorials/how-burn-iso-usb-drive/)
 [RPi Easy SD Card Setup - eLinux.org](https://elinux.org/RPi_Easy_SD_Card_Setup)
 
-
+- preparing OS to
+	- SD card
+	- Solid State Drive
+	- internal FLASH (not all devices have this option)
 ## Apps
 
 - [balenaEtcher - Flash OS images to SD cards & USB drives](https://www.balena.io/etcher)
