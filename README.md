@@ -12,9 +12,10 @@
 	- [NOKIA](NOKIA.md)
 	- [Samsung](./Samsung.md)
 	- [Xiaomi](./Xiaomi.md)
-- Media centers
+- [Media Centers](andr.media_centers.md)
+- [Home Automation](./Home_Automation.md) devices
 
-# Operation Systems available*
+# Operation Systems *
 
 [Mobile operating system - Wikipedia](https://en.wikipedia.org/wiki/Mobile_operating_system)
 [How to prepare Operating System?](./os_preparation.md)
@@ -29,4 +30,4 @@
 	- [Raspbian](./lnx.raspbian.md)
 - [Symbian](./symb.md)
 
-\*All mentioned systems except Symbian are Linux-based.
+\* Displaying only selected OS available, all of them except Symbian are Linux-based.
