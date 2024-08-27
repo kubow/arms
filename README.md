@@ -1,18 +1,24 @@
-# Overview of various mini-devices
+# Overview of various mini-devices *
 
-- Single boards ([Board database](https://hackerboards.com/))
+[The best Raspberry Pi alternatives: Expert tested | ZDNET](https://www.zdnet.com/article/best-raspberry-pi-alternative/#ftag=RSSbaffb68)
+
+- [Media Centers](andr.media_centers.md)
+- Micro Controllers
 	- [[Arduino]]
+	- Sensors
+- Mobile devices ([Mobile database GSMArena.com](https://www.gsmarena.com/))
+	- [NOKIA](device/NOKIA/README.md)
+	- [Samsung](device/Samsung/README.md)
+	- [Xiaomi](Xiaomi.md)
+- Single boards ([Board database](https://hackerboards.com/))
 	- [[CHIP]]
 	- [[Cubieboard]]
 	- [[Cubietruck]]
 	- [[Pine64]]
-	- [[RaspberryPi]]
+	- [[device/RPi/README]]
 	- [[Tessel]]
-- Mobile devices ([Mobile database GSMArena.com](https://www.gsmarena.com/))
-	- [NOKIA](NOKIA.md)
-	- [Samsung](./Samsung.md)
-	- [Xiaomi](./Xiaomi.md)
-- [Media Centers](andr.media_centers.md)
+- Routers
+	- [[Turris]]
 - [Home Automation](./Home_Automation.md) devices
 
 # Operation Systems *
@@ -30,4 +36,13 @@
 	- [Raspbian](./lnx.raspbian.md)
 - [Symbian](./symb.md)
 
-\* Displaying only selected OS available, all of them except Symbian are Linux-based.
+# Tools to rule *
+
+- [ADB](./OS/tools/adb.md)
+- [Heimdall](./OS/tools/Heimdall.md)
+- [Odin](./OS/tools/Odin.md)
+- [SamFW](./OS/tools/SamFW.md)
+
+---
+
+\* Displaying only selected OS / Devices available

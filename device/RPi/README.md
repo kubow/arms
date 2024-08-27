@@ -15,18 +15,8 @@ Run on:
 [Raspberry Pi 4B: 64bit či nebýt – to je otázka - Root.cz](https://www.root.cz/clanky/raspberry-pi-4b-64bit-ci-nebyt-to-je-otazka/?utm_source=rss&utm_medium=text&utm_campaign=rss)
 [Raspberry Pi 4 and Raspbian: Two months in, here's what I've learned so far | ZDNET](https://www.zdnet.com/article/raspberry-pi-4-and-raspbian-two-months-in-heres-what-ive-learned-so-far/#ftag=RSSbaffb68)
 
-## Extensions
-
-- [Best Raspberry Pi add-ons and accessories | ZDNET](https://www.zdnet.com/pictures/best-raspberry-pi-add-ons-and-accessories/#ftag=RSSbaffb68)
-- [Hands on with Pi-Top, the Raspberry Pi Powered Laptop | Make:](https://makezine.com/article/technology/raspberry-pi/hands-on-with-pi-top-the-raspberry-pi-powered-laptop/)
-- [Can the Pi-top RaspberryPi Laptop Act Like a RaspberryPi? : 4 Steps - Instructables](https://www.instructables.com/Can-the-Pi-top-RaspberryPi-laptop-act-like-a-Raspb/)
-- [CrowPi2 - Raspberry Pi Laptop & STEM Education Platform by Elecrow — Kickstarter](https://www.kickstarter.com/projects/elecrow/crowpi2-steam-education-platformand-raspberry-pi-laptop)
-- [...better than life: Multimediální přehrávač](https://abighor.blogspot.com/2020/03/multimedialni-prehravac.html)
-- [Raspberry Pi Plex Server - Make:](https://makezine.com/projects/raspberry-pi-plex-server/)
-- 
-   
-PiPhone [https://smartmania.cz/piphone-mobilni-telefon-zalozeny-na-platforme-rapsberry-pi-7624/](https://smartmania.cz/piphone-mobilni-telefon-zalozeny-na-platforme-rapsberry-pi-7624/)  
-
+[Simply Automationized: Raspberry Pi: How to create your own WebSocket API - Part 1](http://simplyautomationized.blogspot.com/2015/09/raspberry-pi-create-websocket-api.html)
+[Simply Automationized: Home Automation Project #2 Rpi Light Switch](http://simplyautomationized.blogspot.com/2013/09/home-automation-project-2-rpi-light.html)
 ## Troubleshoot
 
 Why your USB cable can't power RPi [https://lifehacker.com/why-your-usb-c-cable-cant-power-your-raspberry-pi-4-1842033826](https://lifehacker.com/why-your-usb-c-cable-cant-power-your-raspberry-pi-4-1842033826)  
