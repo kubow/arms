@@ -6,6 +6,12 @@
 [How To Unlock Bootloader On Samsung Galaxy Phones (getdroidtips.com)](https://www.getdroidtips.com/how-to-unlock-bootloader-on-samsung-galaxy-phones/)
 [Unlock Bootloader on Samsung Galaxy Phones and Tablets [Guide] (thecustomdroid.com)](https://www.thecustomdroid.com/samsung-galaxy-bootloader-unlock-guide/)
 - No fastboot mode!
+### Dex Pad
+
+[Ultimátní shrnutí Samsung Dex – o čem funkce je a proč je to absolutní zabiják konkurence — jaroslavhuss.cz](https://jaroslavhuss.cz/2020/05/16/samsung-dex/)
+[Samsung DEX - vše, co potřebujete vědět - Zboží.cz](https://www.zbozi.cz/magazin/c/samsung-dex-informace/)
+
+
 ### Galaxy A5 2017 (SM-A520F)
 
 [Samsung Galaxy A5 (2017) - Full phone specifications (gsmarena.com)](https://www.gsmarena.com/samsung_galaxy_a5_(2017)-8494.php)
