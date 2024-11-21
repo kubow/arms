@@ -1,3 +1,6 @@
+## Software in general
+
+[GitHub - Achno/debloat-samsung-ADB-shizuku: A list of bloatware packages that samsung phones have with instructions to remove them](https://github.com/Achno/debloat-samsung-ADB-shizuku)
 
 [samsung - downloads.corsicanu.ro > samsung](https://downloads.corsicanu.ro/samsung/)
 
