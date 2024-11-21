@@ -3,7 +3,7 @@
 [Home Assistant @ reddit](https://www.reddit.com/r/homeassistant/)
 [HomeAutomation @ reddit](https://www.reddit.com/r/homeautomation/)
 
-
+[Ultimate self-hosted automation with Platypush](https://blog.platypush.tech/article/Ultimate-self-hosted-automation-with-Platypush)
 ## Systems
 
 - [ESPHome — ESPHome](https://esphome.io/)
