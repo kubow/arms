@@ -32,9 +32,17 @@
 	- [Home Security Camera. How to connect to Homeguard IP cameras](https://home-security-camera.com/how-to-connect-to-homeguard-ip-cameras.htm)
 	- 
 - vacuum cleaner
+	- [Vacuum - MacBury Smart House](https://macbury.github.io/SmartHouse/HomeAssistant/Vacuum/)
 	- [GitHub - humbertogontijo/homeassistant-roborock: Roborock integration for Home Assistant. This integration uses your devices from the Roborock App](https://github.com/humbertogontijo/homeassistant-roborock)
+	- [Xiaomi Cloud](https://i.mi.com/) interconnection
+		- [Xiaomi Cloud Vacuum Map Extractor - Share your Projects! / Custom Integrations - Home Assistant Community](https://community.home-assistant.io/t/xiaomi-cloud-vacuum-map-extractor/231292)
+		- [Xiaomi Cloud - Retrieving access token](https://www.home-assistant.io/integrations/xiaomi_miio/#retrieving-the-access-token)
+		- [GitHub - PiotrMachowski/Xiaomi-cloud-tokens-extractor: This tool/script retrieves tokens for all devices connected to Xiaomi cloud and encryption keys for BLE devices.](https://github.com/PiotrMachowski/Xiaomi-cloud-tokens-extractor)
+		- [GitHub - PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor: This custom integration provides a way to present a live view of a map for Xiaomi (Roborock/Viomi/Roidmi/Dreame) vacuums without a need for rooting.](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor?tab=readme-ov-file)
+
 
 ### HACS
 
 - [Using the HACS dashboard - HACS](https://hacs.xyz/)
+- [GitHub - home-assistant/operating-system: :beginner: Home Assistant Operating System](https://github.com/home-assistant/operating-system)
 - [What HACS addons are you really happy with? : r/homeassistant](https://www.reddit.com/r/homeassistant/comments/nhitiw/what_hacs_addons_are_you_really_happy_with/)
