@@ -1,0 +1,14 @@
+device/CHIP/CHIP.md
+  h_0907ec034f4a17 12-18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "7735630747aa7264c1c6c835e122dc2683126080",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
