@@ -9,3 +9,10 @@
 
 
 ![[chip.jpg]]
+
+
+## Flashing
+
+[My Attempt at a New Method of Flashing : r/ChipCommunity](https://www.reddit.com/r/ChipCommunity/comments/t4k67u/my_attempt_at_a_new_method_of_flashing/)
+
+[paulolc/pocketchip-armbian-build: Reproducible Armbian Unnoficial Builds for the PocketC.H.I.P](https://github.com/paulolc/pocketchip-armbian-build)
