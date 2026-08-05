@@ -1,4 +1,4 @@
-
+# Home automation
 
 [Home Assistant @ reddit](https://www.reddit.com/r/homeassistant/)
 [HomeAutomation @ reddit](https://www.reddit.com/r/homeautomation/)
@@ -19,7 +19,7 @@
 ## Home Assistant
 
 
-### HA Connectors
+### Connectors
 
 [GitHub - home-assistant/operating-system: :beginner: Home Assistant Operating System](https://github.com/home-assistant/operating-system)
 
