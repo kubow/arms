@@ -1,5 +1,6 @@
+# Turris
 
-GPIO control
+## GPIO control
 
 ```shell
 ls /sys/class/gpio/

@@ -1,4 +1,6 @@
-[Tessel](https://github.com/tessel)
+# Tessel
+
+[Project source](https://github.com/tessel)
 
 [Getting Started with the Tessel 2 - SparkFun Learn](https://learn.sparkfun.com/tutorials/getting-started-with-the-tessel-2/what-is-the-tessel-2)
 

@@ -6,10 +6,10 @@ Use maintained external maps for discovery and OS coverage. Keep local notes onl
 
 | Map | Best for | Read carefully |
 |---|---|---|
-| [Armbian supported hardware](https://armbian.com/boards) | Board → Armbian image and support level | **Platinum**, **standard**, **community**, and **work in progress** are different promises |
-| [DietPi supported hardware](https://dietpi.com/docs/hardware/) | Board → lightweight server image | DietPi support may exclude kernel, GPU, Wi-Fi, audio, and other upstream issues |
-| [LibreELEC downloads](https://libreelec.tv/downloads/) | Board/SoC → Kodi appliance image | Media decoding and display support are SoC- and image-specific |
-| [OpenWrt Table of Hardware](https://openwrt.org/toh/start) | Board/router → OpenWrt target | Check device revision, flash size, and installation method |
+| [Armbian](../../software/operating-systems/linux/armbian.md) · [board map](https://armbian.com/boards) | Board → Armbian image and support level | **Platinum**, **standard**, **community**, and **work in progress** are different promises |
+| [DietPi](../../software/operating-systems/linux/dietpi.md) · [board map](https://dietpi.com/docs/hardware/) | Board → lightweight server image | DietPi support may exclude kernel, GPU, Wi-Fi, audio, and other upstream issues |
+| [LibreELEC](../../software/operating-systems/linux/libreelec.md) · [board map](https://libreelec.tv/downloads/) | Board/SoC → Kodi appliance image | Media decoding and display support are SoC- and image-specific |
+| [OpenWrt](../../software/operating-systems/linux/openwrt.md) · [hardware table](https://openwrt.org/toh/start) | Board/router → OpenWrt target | Check device revision, flash size, and installation method |
 
 ## Hardware maps
 
