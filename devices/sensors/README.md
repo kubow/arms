@@ -1,3 +1,12 @@
+# Sensors
+
+- [Adafruit CLUE](adafruit-clue.md)
+- [Weather station](weather-station.md)
+
+For each sensor, record its measured quantity, interface/protocol, voltage, host device, driver or integration, and tested result.
+
+## References
+
 [6 Things All New Home Server Users Should Have](https://www.howtogeek.com/342466/6-things-all-new-home-server-users-should-have/)
 
 [Senzory, čidla. | METEOshop.cz](https://www.meteoshop.cz/katalog/senzory-cidla/53/)
@@ -28,4 +37,3 @@
 
 - [TFA 10.3014.02 - Teploměr min-max - bílý | METEOshop.cz](https://www.meteoshop.cz/produkt/tfa-10-3014-02-teplomer-min-max-bily/?gad_source=1&gclid=CjwKCAjw8rW2BhAgEiwAoRO5rF-p-p-DJ02bzNSj9L__CP3cPuWWMRdaoaNB_lDs-rrKcumOOKlXKxoChkAQAvD_BwE)
 - [TFA 45.2007 analogový teploměr s vlhkoměrem | Ohaus Váhy](https://www.ohausvahy.cz/analogove-vlhkomery--teplomery/tfa-45-2007-analogovy-teplomer-s-vlhkomerem/)
-
