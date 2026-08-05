@@ -1,4 +1,4 @@
-# 
+# ADB
 
 
 [11 Common ADB Commands You Should Know - Make Tech Easier](https://www.maketecheasier.com/common-adb-commands/)
@@ -15,6 +15,3 @@ adb install location/apk.file
 adb sideload location/file  # apply update
 adb backup/restore
 ```
-
-
-sd
