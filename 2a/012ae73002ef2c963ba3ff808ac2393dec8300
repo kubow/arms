@@ -1,0 +1,57 @@
+devices/microcontrollers/README.md
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-6
+devices/microcontrollers/tessel.md
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 1-34
+devices/phones/nokia/README.md
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 1-31
+devices/mini-pcs/beelink.md
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-2,28-29
+  s_175d8e6cbc1f5a::t_431f41cec4d89c 3-27
+devices/microcontrollers/arduino/README.md
+  s_175d8e6cbc1f5a::t_1bd8b96126ab70 1-3
+devices/phones/light-phone.md
+  s_175d8e6cbc1f5a::t_1bd8b96126ab70 1-3
+devices/phones/apple.md
+  s_175d8e6cbc1f5a::t_1bd8b96126ab70 1-3
+devices/README.md
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-13
+devices/mini-pcs/README.md
+  s_175d8e6cbc1f5a::t_431f41cec4d89c 3,5,7,9,11-18,22-48,50-71
+  s_175d8e6cbc1f5a::t_79ebcc7352d807 19-21,49
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-2,4,6,8,10
+devices/routers/turris.md
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 1-10
+devices/routers/README.md
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-3
+devices/phones/README.md
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-9
+devices/single-board-computers/README.md
+  s_175d8e6cbc1f5a::t_144a9469bd481a 9-12
+devices/ereaders/kindle.md
+  s_175d8e6cbc1f5a::t_1bd8b96126ab70 1-5
+devices/ereaders/README.md
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-3
+devices/phones/xiaomi.md
+  s_175d8e6cbc1f5a::t_1bd8b96126ab70 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "2a012ae73002ef2c963ba3ff808ac2393dec8300",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_175d8e6cbc1f5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd0f8-6671-7f91-9033-2e3a8896e860",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
