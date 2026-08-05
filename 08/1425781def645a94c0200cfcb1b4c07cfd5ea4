@@ -1,0 +1,33 @@
+software/applications.md
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 1-5
+software/home-automation/README.md
+  s_175d8e6cbc1f5a::t_bbf48864aefbd0 1-48
+software/media-centers.md
+  s_175d8e6cbc1f5a::t_bbf48864aefbd0 1-7,9-28
+  s_175d8e6cbc1f5a::t_144a9469bd481a 8
+software/README.md
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-4,6
+  s_175d8e6cbc1f5a::t_3687205870607e 7
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "081425781def645a94c0200cfcb1b4c07cfd5ea4",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_175d8e6cbc1f5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd0f8-6671-7f91-9033-2e3a8896e860",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
