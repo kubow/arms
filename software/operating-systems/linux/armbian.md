@@ -1,5 +1,6 @@
+# Armbian
 
-Debian based distro available for many single board computers ([[Cubieboard]], [[Cubietruck]], [[Pine64]], [[device/RPi/README]])
+Debian/Ubuntu-based Linux distribution for ARM boards. Notes exist for [Cubieboard](../../../devices/single-board-computers/cubietech/Cubieboard.md), [Cubietruck](../../../devices/single-board-computers/cubietech/Cubietruck.md), and [Pine64](../../../devices/single-board-computers/pine64/Pine64.md).
 
 
 [Getting Started - Armbian Documentation](https://docs.armbian.com/User-Guide_Getting-Started/)
@@ -11,7 +12,7 @@ Debian based distro available for many single board computers ([[Cubieboard]], [
 
 
 
-# quick id
+## Identify a build
 
 - compilation source: 
 	- Lunar (Ubuntu)
@@ -28,6 +29,6 @@ lsmod  #list of loaded modules
 ```
 
 
-### troubleshoot
+## Troubleshooting
 
 [\[SOLVED\] IR receiver not working anymore / Kernel & Hardware / Arch Linux Forums](https://bbs.archlinux.org/viewtopic.php?id=145777)
