@@ -1,0 +1,40 @@
+devices/single-board-computers/cubietech/Cubietruck.md
+  s_175d8e6cbc1f5a::t_bbf48864aefbd0 3-50
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 1-2
+devices/single-board-computers/chip/CHIP.md
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 1-20
+devices/single-board-computers/raspberry-pi/README.md
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 1-36
+devices/single-board-computers/README.md
+  s_175d8e6cbc1f5a::t_d9e32efe364b19 9
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-2,34-39
+  s_175d8e6cbc1f5a::t_644061ffca505e 3-8,10-33,40
+devices/single-board-computers/pine64/Pine64.md
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 1-14
+devices/single-board-computers/raspberry-pi/builds.md
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 1-18
+devices/single-board-computers/cubietech/Cubieboard.md
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 1-2
+  s_175d8e6cbc1f5a::t_bbf48864aefbd0 3-61
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "f17f2360c217236205b30f220449555f3ee1c616",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_175d8e6cbc1f5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd0f8-6671-7f91-9033-2e3a8896e860",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
