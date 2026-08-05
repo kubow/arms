@@ -1,0 +1,25 @@
+README.md
+  s_175d8e6cbc1f5a::t_3687205870607e 12
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-11,13-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "5282ea229bd070aed9e119091a77a78c38f6d543",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_175d8e6cbc1f5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd0f8-6671-7f91-9033-2e3a8896e860",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
