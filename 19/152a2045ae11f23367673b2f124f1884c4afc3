@@ -1,0 +1,42 @@
+software/operating-systems/linux/libreelec.md
+  s_175d8e6cbc1f5a::t_144a9469bd481a 1-9
+software/operating-systems/linux/armbian.md
+  s_175d8e6cbc1f5a::t_bbf48864aefbd0 1-34
+software/operating-systems/linux/raspberry-pi-os.md
+  s_175d8e6cbc1f5a::t_bbf48864aefbd0 1-5
+software/operating-systems/linux/openwrt.md
+  s_175d8e6cbc1f5a::t_144a9469bd481a 1-9
+software/operating-systems/README.md
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-12,14,20
+  s_175d8e6cbc1f5a::t_144a9469bd481a 13,15-19
+  s_175d8e6cbc1f5a::t_3687205870607e 21
+software/operating-systems/android/lineageos.md
+  s_175d8e6cbc1f5a::t_bbf48864aefbd0 1-7
+software/operating-systems/linux/dietpi.md
+  s_175d8e6cbc1f5a::t_144a9469bd481a 1-9
+software/operating-systems/android/README.md
+  s_175d8e6cbc1f5a::t_bbf48864aefbd0 1-18
+software/operating-systems/linux/cubian.md
+  s_175d8e6cbc1f5a::t_bbf48864aefbd0 1-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "19152a2045ae11f23367673b2f124f1884c4afc3",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_175d8e6cbc1f5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd0f8-6671-7f91-9033-2e3a8896e860",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
