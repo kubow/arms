@@ -1,48 +1,26 @@
-# Overview of various mini-devices *
+# mini_devices
 
-[The best Raspberry Pi alternatives: Expert tested | ZDNET](https://www.zdnet.com/article/best-raspberry-pi-alternative/#ftag=RSSbaffb68)
+Knowledge base for choosing, preparing, and maintaining small computers and connected hardware.
 
-- [Home Automation](./Home_Automation.md) devices
-- [Media Centers](./OS/andr.media_centers.md)
-- Micro Controllers
-	- [Arduino](./device/Arduino/README.md)
-	- [Sensors](./Sensor.md)
-- Mobile devices ([Mobile database GSMArena.com](https://www.gsmarena.com/))
-	- [NOKIA](./device/NOKIA/README.md)
-	- [Samsung](./device/Samsung/README.md)
-	- [Xiaomi](./device/Xiaomi.md)
-- Single boards ([Board database](https://hackerboards.com/))
-	- [CHIP](./device/CHIP/CHIP.md)
-	- [Cubieboard](./device/CubieTech/Cubieboard.md)
-	- [Cubietruck](./device/CubieTech/Cubietruck.md)
-	- [Pine64](./device/Pine/Pine64.md)
-	- [Raspberry Pi](./device/RPi/README.md)
-	- [Tessel](./device/Tessel.md)
-- Routers
-	- [Turris](./device/Turris.md)
+## Find something
 
-# Operation Systems *
+| Need | Go to |
+|---|---|
+| A mini PC, board, phone, router, or sensor | [Devices](devices/README.md) |
+| OS, automation, or application software | [Software](software/README.md) |
+| Cables, storage, radios, cases, or power | [Accessories](accessories/README.md) |
+| Installation, flashing, recovery, and utilities | [Maintenance](maintenance/README.md) |
+| What works together | [Compatibility](COMPATIBILITY.md) |
 
-[Mobile operating system - Wikipedia](https://en.wikipedia.org/wiki/Mobile_operating_system)
-[How to prepare Operating System?](./OS/os_preparation.md)
+## Scope
 
-- [Android](./OS/andr.md)
-- Blackberry
-- iOS
-- [KaiOS](./OS/kaios.md)
-- Linux without emulation
-	- [Armbian](./OS/lnx.armbian.md)
-	- [Cubian](./OS/lnx.cubian.md)
-	- [Raspbian](./OS/lnx.raspbian.md)
-- [Symbian](./OS/symb.md)
+- Select a device and its accessories.
+- Check OS and software support.
+- Prepare, flash, recover, and maintain it.
+- Record tested combinations for next time.
 
-# Tools to rule *
+## Recording rule
 
-- [ADB](./OS/tools/adb.md)
-- [Heimdall](./OS/tools/Heimdall.md)
-- [Odin](./OS/tools/Odin.md)
-- [SamFW](./OS/tools/SamFW.md)
+Be exact: model, revision, OS version, tool version, and result. Use **tested**, **documented**, or **unknown**—never assume family-wide compatibility.
 
----
-
-\* Displaying only selected OS / Devices available
+Start from a [template](templates/README.md). Keep details on the item page; keep only relationships in [Compatibility](COMPATIBILITY.md).
