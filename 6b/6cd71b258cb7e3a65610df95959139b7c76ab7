@@ -1,0 +1,28 @@
+accessories/README.md
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-11
+COMPATIBILITY.md
+  s_175d8e6cbc1f5a::t_9db301b0893d9f 24-27
+  s_175d8e6cbc1f5a::t_3687205870607e 19-21
+  s_175d8e6cbc1f5a::t_8e40007e253dcc 1-18,22-23,28-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "6b6cd71b258cb7e3a65610df95959139b7c76ab7",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_175d8e6cbc1f5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd0f8-6671-7f91-9033-2e3a8896e860",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
