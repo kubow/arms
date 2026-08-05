@@ -1,3 +1,5 @@
+# Cubieboard
+
 ![[cubieboard1.png]]
 
 ### XXXX
@@ -25,9 +27,8 @@ XBMC - not good idea - [http://www.johnaldred.com/xbmc-on-a-cubieboard/](http://
 ## SD Card
 
   
-Armbian - final ([http://docs.armbian.com/](http://docs.armbian.com/))  
-Nastavena static ip --> [http://192.168.88.199/](http://192.168.88.199/)  
-root password kube808box080, user kubow, user user (pass samba)  
+Armbian - final ([documentation](http://docs.armbian.com/))  
+Static IP configured; address and credentials removed. Keep secrets in a password manager.  
 Debian Micro home server [https://github.com/igorpecovnik/Debian-micro-home-server](https://github.com/igorpecovnik/Debian-micro-home-server)  
 Sdílený adresář - /var/www/html  
   

@@ -1,3 +1,5 @@
+# Cubietruck
+
 ![[cubietruck.png]]
 [Cubietech Cubietruck - linux-sunxi.org](https://linux-sunxi.org/Cubietech_Cubietruck)
 [tutorials:cubietruck:start \[CubieBoard Docs\]](http://docs.cubieboard.org/tutorials/cubietruck/start)
@@ -31,13 +33,13 @@
 
 ## TODO
 
-- NAND Debian Wheezy: (root/Aaa123456)
+- NAND Debian Wheezy; credentials removed
 	- SD  pokusy o server
 	- OpenBox ([How to make Peppermint OS even faster with Openbox | The Linux Critic](https://linuxcritic.wordpress.com/2010/05/24/how-to-make-peppermint-os-even-faster-with-openbox/))
 	- right click menu [PCLinuxOS Magazine - HTML](http://pclosmag.com/html/Issues/201108/page10.html)
 - after login script with openbox run ([Linux : How to run a command when boots up? - nixCraft](https://www.cyberciti.biz/tips/linux-how-to-run-a-command-when-boots-up.html))
 - dchp - auto adresa -potřeba jit přes administraci routeru 
-- root password klasik hard, mysql stejné jako do live  [http://192.168.0.9/index.php](http://192.168.0.9/index.php)
+- Local service and database credentials removed; keep them in a password manager
 - [armbian/config: Armbian Linux configuration utility](https://github.com/armbian/config)
 
 
@@ -46,4 +48,3 @@
 [How to setup and use GPIO ports/pins on a Cubietruck](https://gist.github.com/luckydonald/f3ebfab4a63322884cf1)
   
 --- 
-
