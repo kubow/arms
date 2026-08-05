@@ -1,0 +1,28 @@
+devices/sensors/weather-station.md
+  s_175d8e6cbc1f5a::t_1bd8b96126ab70 1-12
+devices/sensors/README.md
+  s_175d8e6cbc1f5a::t_bbf48864aefbd0 1-39
+devices/sensors/adafruit-clue.md
+  s_175d8e6cbc1f5a::t_1bd8b96126ab70 1-3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "096f276001af5ab607326a392da2c5abf98a1a45",
+  "prompts": {},
+  "humans": {
+    "h_0907ec034f4a17": {
+      "author": "kubow <kube.kubow@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_175d8e6cbc1f5a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019fd0f8-6671-7f91-9033-2e3a8896e860",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "kubow <kube.kubow@gmail.com>"
+    }
+  }
+}
