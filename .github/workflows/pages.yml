@@ -1,0 +1,18 @@
+# Renders this repo to https://kubow.github.io/arms/
+# Tooling lives in kubow/kubow.github.io (kb/). Local preview:
+#   ../kubow/kb/build.sh serve .
+name: Publish to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  pages:
+    uses: kubow/kubow.github.io/.github/workflows/kb-pages.yml@main
