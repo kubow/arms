@@ -9,7 +9,7 @@
 
 ### C-series
 
-![[c5-00.png]]
+![c5-00](c5-00.png)
 
 - [Porovnání Nokia C5-00 vs. Nokia C3-01 Touch and Type](https://www.chytrobot.cz/)
 - [Nokia C5-00 - Wikipedia](https://en.wikipedia.org/wiki/Nokia_C5-00)

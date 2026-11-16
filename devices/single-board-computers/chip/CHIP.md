@@ -10,7 +10,7 @@
 
 
 
-![[chip.jpg]]
+![chip](chip.jpg)
 
 
 ## Flashing

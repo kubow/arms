@@ -1,6 +1,6 @@
 # Cubieboard
 
-![[cubieboard1.png]]
+![cubieboard1](cubieboard1.png)
 
 ### XXXX
 

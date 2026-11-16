@@ -1,6 +1,6 @@
 # Cubietruck
 
-![[cubietruck.png]]
+![cubietruck](cubietruck.png)
 [Cubietech Cubietruck - linux-sunxi.org](https://linux-sunxi.org/Cubietech_Cubietruck)
 [tutorials:cubietruck:start \[CubieBoard Docs\]](http://docs.cubieboard.org/tutorials/cubietruck/start)
 [Cubietruck – Armbian](https://www.armbian.com/cubietruck/)

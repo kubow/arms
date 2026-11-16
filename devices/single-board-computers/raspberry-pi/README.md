@@ -1,6 +1,6 @@
 # Raspberry Pi
 
-![[rpi4b.png]]
+![rpi4b](rpi4b.png)
 
 Run on:  
 - Kingston 16 GB - Win IOT  
